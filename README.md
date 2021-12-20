@@ -1,1 +1,1 @@
-# User_Privilages_on_Sql
+# User_Privileges_on_Sql
